@@ -1,0 +1,21 @@
+h1{
+    color: crimson;
+}
+
+p.bevezeto{
+    color: green;
+    font-size: 20px;
+}
+
+#menu .akcios{
+    color:red;
+    font-weight: bold;
+}
+
+.figyelmeztetes{
+    font-style: normal !important
+}
+
+.lablec-szoveg{
+    color: white !important;
+}
